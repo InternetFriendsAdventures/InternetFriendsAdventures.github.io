@@ -1,6 +1,7 @@
 ---
 layout: inner
 title: About This Site
+lead_text: "" 
 permalink: /about/
 ---
 # What

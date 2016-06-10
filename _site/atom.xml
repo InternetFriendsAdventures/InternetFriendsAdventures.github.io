@@ -4,13 +4,26 @@
  <title>Super Cool Adventure Game Website</title>
  <link href="http://scotch-io.github.io/atom.xml" rel="self"/>
  <link href="http://scotch-io.github.io/"/>
- <updated>2016-06-10T01:33:30-06:00</updated>
+ <updated>2016-06-10T03:47:21-06:00</updated>
  <id>http://scotch-io.github.io</id>
  <author>
    <name>Chuck Testa</name>
    <email>dontemailme@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>First Game</title>
+   <link href="http://scotch-io.github.io/First-Game.html"/>
+   <updated>2016-06-08T12:24:36-06:00</updated>
+   <id>http://scotch-io.github.io/First-Game</id>
+   <content type="html">&lt;h1 id=&quot;our-first-game&quot;&gt;Our first game&lt;/h1&gt;
+&lt;p&gt;We recently started our first game. We chose characters based on &lt;a href=&quot;https://rpgmaker.net/media/content/users/441/locker/kXpqU.png&quot;&gt;this&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The game page is available &lt;a href=&quot;/MSPaint_Game1&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
  
 
 </feed>
