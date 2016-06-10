@@ -1,0 +1,10 @@
+# Site Settings
+title: 'Super Cool Adventure Game Website'
+description: 'A blog that will also never be seen by anyone'
+url: 'http://scotch-io.github.io' # the base hostname & protocol for your site //Why can I not change this?
+footer_text: 'Thank you to Nicholas Cerminara for the theme used in this blog'
+
+# Admin Settings
+admin_name: 'Chuck Testa'
+admin_email: 'dontemailme@gmail.com'
+
