@@ -28,7 +28,7 @@ permalink: /MSPaint_Game1/playsers/vinny
   | Item | Amount |  Description |
   |------|---------|-------------|
   | knapsack | 1 | holds things |
-  | rope | 20 feet | |
+  | rope | 20 feet | it's some sort of... rope |
   | food | 1 week | food that will make him not die |
   | water | 1 week | food that will make him not die... probably |
 
