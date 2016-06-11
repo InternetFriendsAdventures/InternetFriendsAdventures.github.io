@@ -7,6 +7,6 @@ permalink: /MSPaint_Game1/dm/
 # This is the admin page for our first game.
 If you are not a DM get out of here. This page is easy to find, but purposely not listed. 
 
-If you want any notes made that only the DM's can see, do it on this page. 
-
-For example you could put a map here, or a list everything that is going on that not all players know about. 
+# Map
+![Gwendolyn](http://imgur.com/KwEaPYk)
+Only significant landmarks are marked here. To the west there is the Cleptsy fire, to the east there is a molested pile of sticks, and up north, a 5 minute walk from the shore line there is a boulder outcropping nearby a small clearing. In that clearing there is an "L" shaped house made of sticks (by archie).
