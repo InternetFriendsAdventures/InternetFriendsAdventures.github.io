@@ -1,10 +1,9 @@
 ---
-layout: player_page
+layout: friends_page
 title: Coily
 lead_text: "Hella Funtime Friend Page" 
-permalink: /MSPaint_Game1/friends/Coily
 ---
-![Gwendolyn]({{ site.url }}/assets/MSPaintHellaFuntimeAdventureFriends/img/Coily.png)
+{% include title-image.html %}
 
 ### Traits
 

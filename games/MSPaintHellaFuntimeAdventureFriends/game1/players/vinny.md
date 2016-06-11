@@ -1,8 +1,7 @@
 ---
 layout: player_page
-title: Puffer
+title: Vinny
 lead_text: "Player Page" 
-permalink: /MSPaint_Game1/players/puffer
 ---
 # Hella Funtime Friends:
 
@@ -11,7 +10,7 @@ permalink: /MSPaint_Game1/players/puffer
 ## Friends now
 
 {% for page in site.pages %}
-{% if page.title == "Archie"  or page.title == "Cantelo" or page.title == "Boleslava" %}
+{% if page.title == "Blinky"  or page.title == "Cleptsy" or page.title == "WombaWomba" %}
 {{ page.content }}
 {% endif %}
 {% endfor %}
@@ -19,9 +18,8 @@ permalink: /MSPaint_Game1/players/puffer
 ***
 
 ## Friends who have yet to show up
-
 {% for page in site.pages %}
-{% if page.title == "Gilligan"  or page.title == "Rolf" %}
+{% if page.title == "Gwendolyn"  or page.title == "Bones" %}
 {{ page.content }}
 {% endif %}
 {% endfor %}
@@ -31,11 +29,11 @@ permalink: /MSPaint_Game1/players/puffer
 # Stuff:
 
 ## Inventory
-
+  
   | Item | Amount |  Description |
   |------|---------|-------------|
   | knapsack | 1 | holds things |
-  | rope | 20 feet | SNAKE! no, it's rope |
+  | rope | 20 feet | it's some sort of... rope |
   | food | 1 week | food that will make him not die |
   | water | 1 week | food that will make him not die... probably |
 
@@ -45,6 +43,4 @@ permalink: /MSPaint_Game1/players/puffer
 
   | Item | Amount |  Location | Description |
   |------|---------|----------|-------------|
-  |Partially built house | N/A | near Boulder outcropping in a clearing| shoulder high walls, currently being built by archie |
-  |mallows | the number of poops that a rabbit has on average | boulder outcropping | like marshmallows, only worse
-
+  | alien fire | N/A | Vinny Spawn (south) coast | built by cleptsy, about the size of a breadbox, never goes out |

@@ -2,7 +2,6 @@
 layout: player_page
 title: Coal
 lead_text: "Player Page" 
-permalink: /MSPaint_Game1/players/coal
 ---
 # Hella Funtime Friends
 

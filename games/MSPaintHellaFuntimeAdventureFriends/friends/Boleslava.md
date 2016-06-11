@@ -1,12 +1,9 @@
 ---
-layout: player_page
+layout: friends_page
 title: Boleslava
 lead_text: "Hella Funtime Friend Page" 
-permalink: /MSPaintHellaFuntimeAdventureFriends/friends/Boleslava
 ---
-<a href="{{ site.url }}/MSPaintHellaFuntimeAdventureFriends/friends/Boleslava">
-![Boleslava]({{ site.url }}/assets/MSPaintHellaFuntimeAdventureFriends/img/Boleslava.png)
-</a>
+{% include title-image.html %}
 
 ### Traits
 

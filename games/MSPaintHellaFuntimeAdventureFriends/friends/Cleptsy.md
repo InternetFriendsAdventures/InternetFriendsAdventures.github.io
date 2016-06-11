@@ -1,12 +1,9 @@
 ---
-layout: player_page
+layout: friends_page
 title: Cleptsy
 lead_text: "Hella Funtime Friend Page" 
-permalink: /MSPaintHellaFuntimeAdventureFriends/friends/Cleptsy
 ---
-<a href="{{ site.url }}/MSPaintHellaFuntimeAdventureFriends/friends/Cleptsy">
-![Cleptsy]({{ site.url }}/assets/MSPaintHellaFuntimeAdventureFriends/img/Cleptsy.png)
-</a>
+{% include title-image.html %}
 
 ### Traits
 
