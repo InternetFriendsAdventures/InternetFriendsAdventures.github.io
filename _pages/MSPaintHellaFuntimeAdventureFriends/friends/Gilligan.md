@@ -2,9 +2,11 @@
 layout: player_page
 title: Gilligan
 lead_text: "Hella Funtime Friend Page" 
-permalink: /MSPaint_Game1/friends/Gilligan
+permalink: /MSPaintHellaFuntimeAdventureFriends/friends/Gilligan
 ---
+<a href="{{ site.url }}/MSPaintHellaFuntimeAdventureFriends/friends/Gilligan">
 ![Gilligan]({{ site.url }}/assets/MSPaintHellaFuntimeAdventureFriends/img/Gilligan.png)
+</a>
 
 ### Traits
 

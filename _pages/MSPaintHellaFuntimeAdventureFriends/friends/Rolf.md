@@ -2,9 +2,11 @@
 layout: player_page
 title: Rolf
 lead_text: "Hella Funtime Friend Page" 
-permalink: /MSPaint_Game1/friends/Rolf
+permalink: /MSPaintHellaFuntimeAdventureFriends/friends/Rolf
 ---
-![Gwendolyn]({{ site.url }}/assets/MSPaintHellaFuntimeAdventureFriends/img/Rolf.png)
+<a href="{{ site.url }}/MSPaintHellaFuntimeAdventureFriends/friends/Rolf">
+![Rolf]({{ site.url }}/assets/MSPaintHellaFuntimeAdventureFriends/img/Rolf.png)
+</a>
 
 ### Traits
 

@@ -2,9 +2,11 @@
 layout: player_page
 title: Blinky
 lead_text: "Hella Funtime Friend Page" 
-permalink: /MSPaint_Game1/friends/Blinky
+permalink: /MSPaintHellaFuntimeAdventureFriends/friends/Blinky
 ---
+<a href="{{ site.url }}/MSPaintHellaFuntimeAdventureFriends/friends/Blinky">
 ![Blinky]({{ site.url }}/assets/MSPaintHellaFuntimeAdventureFriends/img/Blinky.png)
+</a>
 
 ### Traits
 

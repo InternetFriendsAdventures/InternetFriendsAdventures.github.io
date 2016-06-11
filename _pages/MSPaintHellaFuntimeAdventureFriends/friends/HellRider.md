@@ -2,9 +2,11 @@
 layout: player_page
 title: HellRider
 lead_text: "Hella Funtime Friend Page" 
-permalink: /MSPaint_Game1/friends/HellRider
+permalink: /MSPaintHellaFuntimeAdventureFriends/friends/HellRider
 ---
+<a href="{{ site.url }}/MSPaintHellaFuntimeAdventureFriends/friends/HellRider">
 ![HellRider]({{ site.url }}/assets/MSPaintHellaFuntimeAdventureFriends/img/HellRider.png)
+</a>
 
 ### Traits
 

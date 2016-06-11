@@ -2,9 +2,11 @@
 layout: player_page
 title: MrPepper
 lead_text: "Hella Funtime Friend Page" 
-permalink: /MSPaint_Game1/friends/MrPepper
+permalink: /MSPaintHellaFuntimeAdventureFriends/friends/MrPepper
 ---
+<a href="{{ site.url }}/MSPaintHellaFuntimeAdventureFriends/friends/MrPepper">
 ![MrPepper]({{ site.url }}/assets/MSPaintHellaFuntimeAdventureFriends/img/MrPepper.png)
+</a>
 
 ### Traits
 

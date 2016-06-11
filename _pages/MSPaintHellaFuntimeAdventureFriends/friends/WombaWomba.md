@@ -2,9 +2,11 @@
 layout: player_page
 title: WombaWomba
 lead_text: "Hella Funtime Friend Page" 
-permalink: /MSPaint_Game1/friends/WombaWomba
+permalink: /MSPaintHellaFuntimeAdventureFriends/friends/WombaWomba
 ---
+<a href="{{ site.url }}/MSPaintHellaFuntimeAdventureFriends/friends/WombaWomba">
 ![WombaWomba]({{ site.url }}/assets/MSPaintHellaFuntimeAdventureFriends/img/WombaWomba.png)
+</a>
 
 ### Traits
 

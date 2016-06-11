@@ -2,9 +2,11 @@
 layout: player_page
 title: Cantelo
 lead_text: "Hella Funtime Friend Page" 
-permalink: /MSPaint_Game1/friends/Cantelo
+permalink: /MSPaintHellaFuntimeAdventureFriends/friends/Cantelo
 ---
+<a href="{{ site.url }}/MSPaintHellaFuntimeAdventureFriends/friends/Cantelo">
 ![Cantelo]({{ site.url }}/assets/MSPaintHellaFuntimeAdventureFriends/img/Cantelo.png)
+</a>
 
 ### Traits
 

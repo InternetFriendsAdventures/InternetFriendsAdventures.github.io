@@ -2,9 +2,11 @@
 layout: player_page
 title: Bones
 lead_text: "Hella Funtime Friend Page" 
-permalink: /MSPaint_Game1/friends/Bones
+permalink: /MSPaintHellaFuntimeAdventureFriends/friends/Bones
 ---
+<a href="{{ site.url }}/MSPaintHellaFuntimeAdventureFriends/friends/Bones">
 ![Bones]({{ site.url }}/assets/MSPaintHellaFuntimeAdventureFriends/img/Bones.png)
+</a>
 
 ### Traits
 

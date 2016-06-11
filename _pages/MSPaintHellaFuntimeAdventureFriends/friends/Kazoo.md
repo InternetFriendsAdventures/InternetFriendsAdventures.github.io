@@ -2,9 +2,11 @@
 layout: player_page
 title: Kazoo
 lead_text: "Hella Funtime Friend Page" 
-permalink: /MSPaint_Game1/friends/Kazoo
+permalink: /MSPaintHellaFuntimeAdventureFriends/friends/Kazoo
 ---
-![Archie]({{ site.url }}/assets/MSPaintHellaFuntimeAdventureFriends/img/Kazoo.png)
+<a href="{{ site.url }}/MSPaintHellaFuntimeAdventureFriends/friends/Kazoo">
+![Kazoo]({{ site.url }}/assets/MSPaintHellaFuntimeAdventureFriends/img/Kazoo.png)
+</a>
 
 ### Traits
 

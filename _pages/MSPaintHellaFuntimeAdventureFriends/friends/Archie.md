@@ -2,9 +2,12 @@
 layout: player_page
 title: Archie
 lead_text: "Hella Funtime Friend Page" 
-permalink: /MSPaint_Game1/friends/Archie
+permalink: /MSPaintHellaFuntimeAdventureFriends/friends/Archie
 ---
+<a href="{{ site.url }}/MSPaintHellaFuntimeAdventureFriends/friends/Archie">
 ![Archie]({{ site.url }}/assets/MSPaintHellaFuntimeAdventureFriends/img/Archie.png)
+</a>
+
 
 ### Traits
 

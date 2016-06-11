@@ -2,9 +2,11 @@
 layout: player_page
 title: Murray
 lead_text: "Hella Funtime Friend Page" 
-permalink: /MSPaint_Game1/friends/Murray
+permalink: /MSPaintHellaFuntimeAdventureFriends/friends/Murray
 ---
+<a href="{{ site.url }}/MSPaintHellaFuntimeAdventureFriends/friends/Murray">
 ![Murray]({{ site.url }}/assets/MSPaintHellaFuntimeAdventureFriends/img/Murray.png)
+</a>
 
 ### Traits
 

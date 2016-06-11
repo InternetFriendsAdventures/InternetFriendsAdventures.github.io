@@ -2,9 +2,11 @@
 layout: player_page
 title: Gwendolyn
 lead_text: "Hella Funtime Friend Page" 
-permalink: /MSPaint_Game1/friends/Gwendolyn
+permalink: /MSPaintHellaFuntimeAdventureFriends/friends/Gwendolyn
 ---
+<a href="{{ site.url }}/MSPaintHellaFuntimeAdventureFriends/friends/Gwendolyn">
 ![Gwendolyn]({{ site.url }}/assets/MSPaintHellaFuntimeAdventureFriends/img/Gwendolyn.png)
+</a>
 
 ### Traits
 
