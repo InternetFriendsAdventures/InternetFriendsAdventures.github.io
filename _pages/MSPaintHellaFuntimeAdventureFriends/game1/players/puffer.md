@@ -33,7 +33,7 @@ permalink: /MSPaint_Game1/playsers/puffer
   | Item | Amount |  Description |
   |------|---------|-------------|
   | knapsack | 1 | holds things |
-  | rope | 20 feet | | it's goddamn rope |
+  | rope | 20 feet | it's goddamn rope |
   | food | 1 week | food that will make him not die |
   | water | 1 week | food that will make him not die... probably |
 
