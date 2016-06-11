@@ -7,16 +7,20 @@ permalink: /MSPaint_Game1/playsers/coal
 # Hella Funtime Friends
 
 ## Friends now
-Mildred
 
-Kazoo
-
-Murray
+{% for page in site.pages %}
+{% if page.title == "Mildred"  or page.title == "Kazoo" or page.title == "Murray" %}
+{{ page.content }}
+{% endif %}
+{% endfor %}
 
 ## Friends who have yet to show up
-Hell Rider
 
-Mr. Pepper
+{% for page in site.pages %}
+{% if page.title == "HellRider"  or page.title == "MrPepper" %}
+{{ page.content }}
+{% endif %}
+{% endfor %}
 
 # Stuff:
 
