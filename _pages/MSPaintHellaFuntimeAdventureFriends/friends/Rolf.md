@@ -8,7 +8,7 @@ permalink: /MSPaint_Game1/friends/Rolf
 
 ### Traits
 
-* Brings one self-powered consold and three games of your choice
+* Brings one self-powered console and three games of your choice
 * Plays video games with you
-* Can't progect you or himself
+* Can't protect you or himself
 * Self powered television also included
