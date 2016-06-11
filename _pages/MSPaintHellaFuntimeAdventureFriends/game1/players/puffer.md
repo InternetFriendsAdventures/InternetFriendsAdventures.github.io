@@ -14,6 +14,8 @@ permalink: /MSPaint_Game1/playsers/puffer
 {% endif %}
 {% endfor %}
 
+*********************
+
 ## Friends who have yet to show up
 
 {% for page in site.pages %}
@@ -21,6 +23,8 @@ permalink: /MSPaint_Game1/playsers/puffer
 {{ page.content }}
 {% endif %}
 {% endfor %}
+
+*********************
 
 # Stuff:
 
@@ -32,6 +36,8 @@ permalink: /MSPaint_Game1/playsers/puffer
   | rope | 20 feet | |
   | food | 1 week | food that will make him not die |
   | water | 1 week | food that will make him not die... probably |
+
+*****************************
 
 ## Ownership
 
