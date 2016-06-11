@@ -4,7 +4,7 @@
  <title>Super Cool Adventure Game Website</title>
  <link href="http://scotch-io.github.io/atom.xml" rel="self"/>
  <link href="http://scotch-io.github.io/"/>
- <updated>2016-06-10T03:47:21-06:00</updated>
+ <updated>2016-06-10T19:05:29-06:00</updated>
  <id>http://scotch-io.github.io</id>
  <author>
    <name>Chuck Testa</name>
@@ -18,9 +18,19 @@
    <updated>2016-06-08T12:24:36-06:00</updated>
    <id>http://scotch-io.github.io/First-Game</id>
    <content type="html">&lt;h1 id=&quot;our-first-game&quot;&gt;Our first game&lt;/h1&gt;
-&lt;p&gt;We recently started our first game. We chose characters based on &lt;a href=&quot;https://rpgmaker.net/media/content/users/441/locker/kXpqU.png&quot;&gt;this&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We recently started our first game. We chose friends based on &lt;a href=&quot;https://rpgmaker.net/media/content/users/441/locker/kXpqU.png&quot;&gt;this&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;The game page is available &lt;a href=&quot;/MSPaint_Game1&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;rules&quot;&gt;Rules&lt;/h3&gt;
+&lt;p&gt;It was decided that each of the three players would choose 5 from the list linked previously. These companions would accompany them on a short test journey because role playing 4 years would be too hard for us as new players. Each player starts with three of their “Hella Funtime Friends” and the other two will show up later.&lt;/p&gt;
+
+&lt;h1 id=&quot;players&quot;&gt;Players&lt;/h1&gt;
+&lt;p&gt;This is a list of all the player pages:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/MSPaint_Game1/playsers/coal&quot;&gt;Coal&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/MSPaint_Game1/playsers/puffer&quot;&gt;Puffer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/MSPaint_Game1/playsers/vinny&quot;&gt;Vinny&lt;/a&gt;&lt;/p&gt;
 
 </content>
  </entry>

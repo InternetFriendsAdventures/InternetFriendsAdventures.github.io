@@ -33,6 +33,6 @@ Rolf
 
   | Item | Amount |  Location | Description |
   |------|---------|----------|-------------|
-  |Partially built resteraunt| N/A | near Boulder outcropping in a clearing| shoulder high walls, currently being built by archie |
+  |Partially built house | N/A | near Boulder outcropping in a clearing| shoulder high walls, currently being built by archie |
   |mallows | the number of poops that a rabbit has on average | boulder outcropping | like marshmallows, only worse
 
