@@ -15,5 +15,7 @@ Only significant landmarks are marked here. To the west there is the Cleptsy fir
 # Player travel
 
 Puffer: Spawned near boulders, stayed there and build house
+
 Coal: Spawned near Mildred Sticks, traveled to Puffer house
+
 Vinny: Spawned near Alien Fire, traveled to Mildred Sticks
