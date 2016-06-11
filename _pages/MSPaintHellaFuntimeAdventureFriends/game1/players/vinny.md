@@ -6,6 +6,8 @@ permalink: /MSPaint_Game1/playsers/vinny
 ---
 # Hella Funtime Friends:
 
+***
+
 ## Friends now
 
 {% for page in site.pages %}
@@ -14,12 +16,16 @@ permalink: /MSPaint_Game1/playsers/vinny
 {% endif %}
 {% endfor %}
 
+***
+
 ## Friends who have yet to show up
 {% for page in site.pages %}
 {% if page.title == "Gwendolyn"  or page.title == "Bones" %}
 {{ page.content }}
 {% endif %}
 {% endfor %}
+
+***
 
 # Stuff:
 
@@ -31,6 +37,8 @@ permalink: /MSPaint_Game1/playsers/vinny
   | rope | 20 feet | it's some sort of... rope |
   | food | 1 week | food that will make him not die |
   | water | 1 week | food that will make him not die... probably |
+
+***
 
 ## Ownership
 
