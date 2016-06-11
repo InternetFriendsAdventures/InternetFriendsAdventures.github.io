@@ -6,6 +6,8 @@ permalink: /MSPaint_Game1/playsers/coal
 ---
 # Hella Funtime Friends
 
+***
+
 ## Friends now
 
 {% for page in site.pages %}
@@ -14,7 +16,7 @@ permalink: /MSPaint_Game1/playsers/coal
 {% endif %}
 {% endfor %}
 
-*********************
+***
 
 ## Friends who have yet to show up
 
@@ -24,7 +26,7 @@ permalink: /MSPaint_Game1/playsers/coal
 {% endif %}
 {% endfor %}
 
-*********************
+***
 
 # Stuff:
 
@@ -38,7 +40,7 @@ permalink: /MSPaint_Game1/playsers/coal
   | chicken wings | a bunch | thanks a lot mildred |
   | water | 1 week | food that will make him not die... probably |
 
-*********************
+***
 
 ## Ownership
   
