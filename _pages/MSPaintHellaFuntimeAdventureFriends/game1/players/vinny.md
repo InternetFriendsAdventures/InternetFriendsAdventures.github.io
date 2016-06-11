@@ -9,19 +9,17 @@ permalink: /MSPaint_Game1/playsers/vinny
 ## Friends now
 
 {% for page in site.pages %}
-{% if page.title == "Blinky" %}
+{% if page.title == "Blinky"  or page.title == "Cleptsy" or page.title == "WombaWomba" %}
 {{ page.content }}
 {% endif %}
 {% endfor %}
 
-Cleptsy
-
-Womba Womba
-
 ## Friends who have yet to show up
-Bones
-
-Gwendolyn
+{% for page in site.pages %}
+{% if page.title == "Gwendolyn"  or page.title == "Bones" %}
+{{ page.content }}
+{% endif %}
+{% endfor %}
 
 # Stuff:
 
