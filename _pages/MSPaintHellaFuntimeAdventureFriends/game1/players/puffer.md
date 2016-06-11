@@ -7,16 +7,20 @@ permalink: /MSPaint_Game1/playsers/puffer
 # Hella Funtime Friends:
 
 ## Friends now
-Archie
 
-Cantelo
-
-Boleslava
+{% for page in site.pages %}
+{% if page.title == "Archie"  or page.title == "Cantelo" or page.title == "Boleslava" %}
+{{ page.content }}
+{% endif %}
+{% endfor %}
 
 ## Friends who have yet to show up
-Gilligan
 
-Rolf
+{% for page in site.pages %}
+{% if page.title == "Gilligan"  or page.title == "Rolf" %}
+{{ page.content }}
+{% endif %}
+{% endfor %}
 
 # Stuff:
 
