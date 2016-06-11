@@ -2,7 +2,7 @@
 layout: player_page
 title: Puffer
 lead_text: "Player Page" 
-permalink: /MSPaint_Game1/playsers/puffer
+permalink: /MSPaint_Game1/players/puffer
 ---
 # Hella Funtime Friends:
 
