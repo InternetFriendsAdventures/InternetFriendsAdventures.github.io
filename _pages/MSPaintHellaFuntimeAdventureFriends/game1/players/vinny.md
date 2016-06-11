@@ -2,7 +2,7 @@
 layout: player_page
 title: Vinny
 lead_text: "Player Page" 
-permalink: /MSPaint_Game1/playsers/vinny
+permalink: /MSPaint_Game1/players/vinny
 ---
 # Hella Funtime Friends:
 
