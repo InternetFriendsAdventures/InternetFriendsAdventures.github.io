@@ -13,7 +13,7 @@ permalink: /MSPaint_Game1/playsers/coal
 {{ page.content }}
 {% endif %}
 {% endfor %}
-
+*********************
 ## Friends who have yet to show up
 
 {% for page in site.pages %}
@@ -21,7 +21,7 @@ permalink: /MSPaint_Game1/playsers/coal
 {{ page.content }}
 {% endif %}
 {% endfor %}
-
+*********************
 # Stuff:
 
 ## Inventory
@@ -33,7 +33,7 @@ permalink: /MSPaint_Game1/playsers/coal
   | food | 1 week | food that will make him not die |
   | chicken wings | a bunch | thanks a lot mildred |
   | water | 1 week | food that will make him not die... probably |
-
+*********************
 ## Ownership
   
   | Item | Amount |  Location | Description |
