@@ -4,7 +4,7 @@ title: Archie
 lead_text: "Hella Funtime Friend Page" 
 permalink: /MSPaint_Game1/friends/Archie
 ---
-![Gwendolyn]({{ site.url }}/assets/MSPaintHellaFuntimeAdventureFriends/img/Archie.png)
+![Archie]({{ site.url }}/assets/MSPaintHellaFuntimeAdventureFriends/img/Archie.png)
 
 ### Traits
 
