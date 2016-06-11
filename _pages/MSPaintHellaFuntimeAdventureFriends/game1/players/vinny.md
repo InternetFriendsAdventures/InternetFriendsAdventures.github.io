@@ -7,7 +7,12 @@ permalink: /MSPaint_Game1/playsers/vinny
 # Hella Funtime Friends:
 
 ## Friends now
-Blinky
+
+{% for page in site.pages %}
+{% if page.title == "Blinky" %}
+{{ page.content }}
+{% endif %}
+{% endfor %}
 
 Cleptsy
 
