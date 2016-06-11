@@ -6,6 +6,8 @@ permalink: /MSPaint_Game1/playsers/puffer
 ---
 # Hella Funtime Friends:
 
+***
+
 ## Friends now
 
 {% for page in site.pages %}
@@ -14,7 +16,7 @@ permalink: /MSPaint_Game1/playsers/puffer
 {% endif %}
 {% endfor %}
 
-*********************
+***
 
 ## Friends who have yet to show up
 
@@ -24,7 +26,7 @@ permalink: /MSPaint_Game1/playsers/puffer
 {% endif %}
 {% endfor %}
 
-*********************
+***
 
 # Stuff:
 
@@ -37,7 +39,7 @@ permalink: /MSPaint_Game1/playsers/puffer
   | food | 1 week | food that will make him not die |
   | water | 1 week | food that will make him not die... probably |
 
-*****************************
+***
 
 ## Ownership
 
