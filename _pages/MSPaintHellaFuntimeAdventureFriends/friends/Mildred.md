@@ -2,10 +2,10 @@
 layout: player_page
 title: Mildred
 lead_text: "Hella Funtime Friend Page" 
-permalink: /MSPaintHellaFuntimeAdventureFriends/friends/Bones
+permalink: /MSPaintHellaFuntimeAdventureFriends/friends/Mildred
 ---
-<a href="{{ site.url }}/MSPaintHellaFuntimeAdventureFriends/friends/Bones">
-![Bones]({{ site.url }}/assets/MSPaintHellaFuntimeAdventureFriends/img/Bones.png)
+<a href="{{ site.url }}/MSPaintHellaFuntimeAdventureFriends/friends/Mildred">
+![Mildred]({{ site.url }}/assets/MSPaintHellaFuntimeAdventureFriends/img/Mildred.png)
 </a>
 
 ### Traits
