@@ -8,6 +8,6 @@ permalink: /MSPaint_Game1/dm/
 If you are not a DM get out of here. This page is easy to find, but purposely not listed. 
 
 # Map
-![MAP](http://imgur.com/KwEaPYk)
+![MAP]({{ site.url }}/assets/MSPaintHellaFuntimeAdventureFriends/game1/map.png)
 
 Only significant landmarks are marked here. To the west there is the Cleptsy fire, to the east there is a molested pile of sticks, and up north, a 5 minute walk from the shore line there is a boulder outcropping nearby a small clearing. In that clearing there is an "L" shaped house made of sticks (by archie).
