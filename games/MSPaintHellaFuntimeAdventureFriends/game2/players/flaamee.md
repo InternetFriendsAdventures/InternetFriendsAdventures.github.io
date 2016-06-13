@@ -1,6 +1,6 @@
 ---
 layout: player_page
-title: Niblexis
+title: Flaamee
 lead_text: "Player Page" 
 tags: "Second Game"
 ---
@@ -11,7 +11,7 @@ tags: "Second Game"
 ## Friends now
 
 {% for page in site.pages %}
-{% if page.title == "Coily"  or page.title == "Kazoo" or page.title == "Gilligan" %}
+{% if page.title == "Bones"  or page.title == "WombaWomba" or page.title == "Blinky" %}
 {{ page.content }}
 {% endif %}
 {% endfor %}

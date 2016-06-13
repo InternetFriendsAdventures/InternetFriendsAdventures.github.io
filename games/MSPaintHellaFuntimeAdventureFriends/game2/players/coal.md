@@ -11,7 +11,7 @@ tags: "Second Game"
 ## Friends now
 
 {% for page in site.pages %}
-{% if page.title == "friend1"  or page.title == "friend2" or page.title == "friend3" %}
+{% if page.title == "Archie"  or page.title == "Murray" or page.title == "HellRider" %}
 {{ page.content }}
 {% endif %}
 {% endfor %}
