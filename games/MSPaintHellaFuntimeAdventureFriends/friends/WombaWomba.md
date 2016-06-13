@@ -11,3 +11,4 @@ lead_text: "Hella Funtime Friend Page"
 * Does not speak
 * Turns into a statue every Sunday
 * Nice hat
+* Incompetent at anything that does not involve combat
