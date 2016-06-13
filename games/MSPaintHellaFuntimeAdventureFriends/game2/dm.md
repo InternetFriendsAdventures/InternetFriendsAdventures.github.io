@@ -8,7 +8,7 @@ If you are not a DM get out of here. This page is easy to find, but purposely no
 {::options parse_block_html="true" /}
 
 <div class="thumbnail">
- [![MAP]({{ site.url }}/assets/MSPaintHellaFuntimeAdventureFriends/game2/Japan.png)](#)
+ [![MAP]({{ site.url }}/games/MSPaintHellaFuntimeAdventureFriends/game2/Japan.png)](#)
  <b>MAP</b>
  This is the most recently updated map. Who knows how old it is.
 </div>
