@@ -1,6 +1,6 @@
 ---
 layout: player_page
-title: Coal
+title: Jelleh
 lead_text: "Player Page" 
 tags: "Second Game"
 ---
