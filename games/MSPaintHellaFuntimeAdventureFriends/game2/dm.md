@@ -1,8 +1,8 @@
 ---
 layout: inner
-title: Our first adventure together
+title: Our second adventure together
 ---
-# This is the admin page for our first game.
+# This is the admin page for our second game.
 If you are not a DM get out of here. This page is easy to find, but purposely not listed. 
 
 {::options parse_block_html="true" /}
@@ -13,7 +13,10 @@ If you are not a DM get out of here. This page is easy to find, but purposely no
  This is the most recently updated map. Who knows how old it is.
 </div>
 
-Only significant landmarks are marked here. To the west there is the Cleptsy fire, to the east there is a molested pile of sticks, and up north, a 5 minute walk from the shore line there is a boulder outcropping nearby a small clearing. In that clearing there is an "L" shaped house made of sticks (by archie).
+Only significant landmarks are marked here. North on own island is Refugee camp. Down is a city, then boatyard, then below that is the observatory. Hidden waterfall to the left ish and below that is the canyon with river. Then docks downwards, then capital city, then graveyard. 
 
-# Player travel
-
+# Player Location
+Puffer: Sleeping in observatory
+Flaame and Jellah: Running from Skeleton, heading towards Capital City.
+Surge: Heading towards beach to camp for the night from Capital City
+Nib: Near Refugee camp
