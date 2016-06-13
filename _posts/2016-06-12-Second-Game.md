@@ -6,7 +6,7 @@ categories: adventure
 tags: Second Game Adventure
 ---
 # Our second game
-This is our second game with We chose friends based on [this](http://127.0.0.1:4000/games/MSPaintHellaFuntimeAdventureFriends/friends/).
+This is our second game with We chose friends based on [this]({{ site.url }}/games/MSPaintHellaFuntimeAdventureFriends/friends/).
 
 ### Rules
 Each player chose 3 friends to join them on their adventure. You can see their drafts on their pages. 
