@@ -9,6 +9,7 @@ If you are not a DM get out of here. This page is easy to find, but purposely no
 
 <div class="thumbnail">
  [![MAP]({{ site.url }}/games/MSPaintHellaFuntimeAdventureFriends/game2/map.png)](#)
+ 
  <b>MAP</b>
  This is the most recently updated map. Who knows how old it is.
 </div>
