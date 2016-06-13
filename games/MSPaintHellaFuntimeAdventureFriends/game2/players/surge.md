@@ -29,6 +29,7 @@ tags: "Second Game"
   | food | 1 week | food that will make him not die |
   | water | 1 week | food that will make him not die... probably |
   | clothes | a few changes | clothes that he can change into |
+  
 ***
 
 ## Ownership
