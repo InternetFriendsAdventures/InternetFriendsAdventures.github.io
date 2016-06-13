@@ -20,6 +20,9 @@ Only significant landmarks are marked here. North on own island is Refugee camp.
 
 # Player Location
 Puffer: Sleeping in observatory
+
 Flaame and Jellah: Running from Skeleton, heading towards Capital City.
+
 Surge: Heading towards beach to camp for the night from Capital City
+
 Nib: Near Refugee camp
