@@ -28,6 +28,16 @@ tags: "Second Game"
   | food | 1 week | food that will make him not die |
   | water | 1 week | food that will make him not die... probably |
   | clothes | a few changes | clothes that he can change into |
+  | Hatchet | 1 | can be used to chop wood |
+  | Frozen Chicken (from Panda express) | 2 boxes | Good for the eating | 
+  
+## Second Backpacking Bag (Carried by Surge) 
+
+  | Item | Amount |  Description |
+  |------|---------|-------------|
+  | Hatchet | 1 | can be used to chop wood |
+  | Sleeping bag | 1 | nice and cozy |
+  | Frozen Chicken (from Panda express) | 4 boxes | Good for the eating | 
   
 ## Rolf's backpacking bag
 
@@ -37,7 +47,14 @@ tags: "Second Game"
   | Fishing Pole | 2 | can be used with the Fishint tackle |
   | Jackets | 2 | can keep wearer warm |
   | Sleeping Bag | 1 | goint to be cozy |
+  | Frozen Chicken (from Panda express) | 2 boxes | Good for the eating | 
   
+## Gwendolyn
+  
+  | Item | Ammount | Description |
+  |------|---------|-------------|
+  | Gold Necklace | 1 | is pretty |
+
 ***
 
 ## Ownership
