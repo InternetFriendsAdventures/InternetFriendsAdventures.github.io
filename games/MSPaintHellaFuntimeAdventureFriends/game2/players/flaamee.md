@@ -20,14 +20,16 @@ tags: "Second Game"
 
 # Stuff:
 
-## Inventory
+## Knapsack
 
   | Item | Amount |  Description |
   |------|---------|-------------|
-  | knapsack | 1 | holds things |
   | rope | 20 feet | it's probably some rope |
   | food | 1 week | food that will make him not die |
   | water | 1 week | food that will make him not die... probably |
+  | Bowls | a few | to make blinky think he is good at things |
+  | Fishing tackle | some | can be used to catch fish |
+  
 
 ***
 
