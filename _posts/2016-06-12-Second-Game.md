@@ -9,8 +9,7 @@ tags: Second Game Adventure
 This is our second game with We chose friends based on [this](http://127.0.0.1:4000/games/MSPaintHellaFuntimeAdventureFriends/friends/).
 
 ### Rules
-It was decided that each of the three players would choose 5 from the list linked previously. These companions would accompany them on a short test journey because role playing 4 years would be too hard for us as new players. Each player starts with three of their "Hella Funtime Friends" and the other two will show up later. 
-
+Each player chose 3 friends to join them on their adventure. You can see their drafts on their pages. 
 # Players
 This is a list of all the player pages:
 {% for page in site.pages %}
