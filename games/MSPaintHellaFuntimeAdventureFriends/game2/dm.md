@@ -19,10 +19,10 @@ If you are not a DM get out of here. This page is easy to find, but purposely no
 Only significant landmarks are marked here. North on own island is Refugee camp. Down is a city, then boatyard, then below that is the observatory. Hidden waterfall to the left ish and below that is the canyon with river. Then docks downwards, then capital city, then graveyard. 
 
 # Player Location
-Puffer: Sleeping in observatory
+Puffer: Sleeping in observatory. Well fed, so are companions.
 
-Flaame and Jellah: Running from Skeleton, heading towards Capital City.
+Flaame and Jellah: Running from Skeleton, heading towards Capital City. Both have not eaten, and will be hungry/thirsty soon. So will companions. 
 
-Surge: Heading towards beach to camp for the night from Capital City
+Surge: Heading towards beach to camp for the night from Capital City. Needs to eat. 
 
-Nib: Near Refugee camp
+Nib: Near Refugee camp. Has eaten and done everything properly the whole time.
