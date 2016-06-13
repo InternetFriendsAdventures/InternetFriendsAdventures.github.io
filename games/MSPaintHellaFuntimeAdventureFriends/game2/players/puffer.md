@@ -28,6 +28,7 @@ tags: "Second Game"
   | rope | 20 feet | it's probably some rope |
   | food | 1 week | food that will make him not die |
   | water | 1 week | food that will make him not die... probably |
+  | water | a few more bottles |  get thirsty | 
 
 ***
 
