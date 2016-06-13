@@ -41,7 +41,7 @@ tags: "Second Game"
   
 ## Rolf's backpacking bag
 
-  | Item | Ammount | Description |
+  | Item | Amount | Description |
   |------|---------|-------------|
   | Fishing tackle | a lot | a few lures and bait for fishing |
   | Fishing Pole | 2 | can be used with the Fishint tackle |
@@ -51,7 +51,7 @@ tags: "Second Game"
   
 ## Gwendolyn
   
-  | Item | Ammount | Description |
+  | Item | Amount | Description |
   |------|---------|-------------|
   | Gold Necklace | 1 | is pretty |
 
