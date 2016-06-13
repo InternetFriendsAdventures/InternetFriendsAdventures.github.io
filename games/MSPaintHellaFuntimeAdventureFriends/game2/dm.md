@@ -11,8 +11,10 @@ If you are not a DM get out of here. This page is easy to find, but purposely no
  [![MAP]({{ site.url }}/games/MSPaintHellaFuntimeAdventureFriends/game2/map.png)](#)
  
  <b>MAP</b>
+ 
  This is the most recently updated map. Who knows how old it is.
 </div>
+
 
 Only significant landmarks are marked here. North on own island is Refugee camp. Down is a city, then boatyard, then below that is the observatory. Hidden waterfall to the left ish and below that is the canyon with river. Then docks downwards, then capital city, then graveyard. 
 
