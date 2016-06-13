@@ -28,7 +28,9 @@ tags: "Second Game"
   | rope | 20 feet | it's probably some rope |
   | food | 1 week | food that will make him not die |
   | water | 1 week | food that will make him not die... probably |
-  | water | a few more bottles |  get thirsty | 
+  | water | a few more bottles |  get thirsty |
+  | canned food | 5 cans | good for eating |
+  | [map](mM7QFAK)| 1 | shows several features of the island | 
 
 ***
 
