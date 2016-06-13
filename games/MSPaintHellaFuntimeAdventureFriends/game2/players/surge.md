@@ -30,6 +30,7 @@ tags: "Second Game"
   | clothes | a few changes | clothes that he can change into |
   
 ## Rolf's backpacking bag
+
   | Item | Ammount | Description |
   |------|---------|-------------|
   | Fishing tackle | a lot | a few lures and bait for fishing |
