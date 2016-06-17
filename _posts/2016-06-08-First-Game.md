@@ -14,7 +14,7 @@ It was decided that each of the three players would choose 5 from the list linke
 # Players
 This is a list of all the player pages:
 {% for page in site.pages %}
-{% if page.lead_text == "Player Page" %}
+{% if page.lead_text == "Player Page" and page.tags == "First Game" %}
 <a href="{{ page.url }}">{{ page.title }}</a>
 {% endif %}
 {% endfor %}
