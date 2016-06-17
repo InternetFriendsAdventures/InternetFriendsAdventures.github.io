@@ -2,6 +2,7 @@
 layout: player_page
 title: Coal
 lead_text: "Player Page" 
+tags: "First Game"
 ---
 # Hella Funtime Friends
 
