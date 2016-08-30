@@ -102,7 +102,8 @@ In this server, the owner is Crab. There will be blatant admin abuse, but all in
 These bans actually last as long as it takes me to click and remove them. This never happens to people who I do not think will find the humor in it. 
 In fact, after a reasonable complaint from Puffer himself, I removed the ability to do this, and instead we send people do "jail." 
 In jail, the voice quality is really, really bad. If you want to experience this, just ask. So other than joking around, nobody has ever been punished without reason. 
-If anybody from Flock wants to join Crabcast, we will give them all of the privileges that they had on the Flock. 
+If anybody from Flock wants to join Crabcast, we will give them all of the privileges that they had on the Flock.
+Everybody is welcome to make this their new home to hang out and chat in but we don't expect you to.
 
 On Crabcast we will never punish somebody when something happens until we hear evidence. This can be a problem, because we are not always on, but like I said, any mods from flock will have the same power here. 
 Crab users also have the ability to "complain" about users that they feel have done something wrong. If enough people complain about someone, that person will be temp banned.
