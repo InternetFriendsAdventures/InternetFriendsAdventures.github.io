@@ -114,11 +114,14 @@ I don't give a lovely mother fuck if your feelings are hurt, but I will not put 
 
 I do not like Dev, I never have because he removed my flairs because they "bothered him". Drama Queen Niblexis is a shit stirrer, and I do not care for people like that. 
 He just pokes and prods just to fuck with people because he gets no satisfaction from his own life.
+Niblexis goes behind Puffers back and encourages Puffer to continue all the while recording it. 
+In real life this is called entrapment and is very discouraged and even illegal. 
 Multiple times in the above videos he is goading the situation on, and even breaking rules that Puffer himself did.
 Thankfully he is not bright enough to even notice that the videos actually help Puffers case. 
 He is at least as guilty as Puffer of any rule breaking, if not more. 
 Even though these two suck... like really bad... but they are still both welcome on Crabcast. 
-There are two exceptions to mods having equivlent power on Flock and Crabcast. Niblexis has demonstrated a history of doing things just to cause trouble so he will not be given mod powers probably ever. 
+There are two exceptions to mods having equivlent power on Flock and Crabcast. 
+Niblexis has demonstrated a history of doing things just to cause trouble so he will not be given mod powers probably ever. 
 Dev will also not get mod powers because he has shown he cannot deal with a situation without rash actions. 
 
 Once again, if anyone wants to join me you can find me at ts.crabcast.party.
