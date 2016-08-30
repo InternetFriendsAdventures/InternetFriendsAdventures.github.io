@@ -11,11 +11,6 @@ Before getting into the details, I would like to tell anybody who is interested 
 Also, Puffer does not know that I have written this, and it was posted without his permission. 
 I just absolutely hate the way that this turned out for him because he was a valued community member at the flock, and I think that most of you will agree that he was treated very poorly. 
 
-# Edit 1
-
-When I brought it up, Puffer stated that he wanted to make anything he did right, and that dev finally sort of told him what he had done. 
-Evidently Puffer agrees that he did fuck up, but not enough for the tailspin that the situation ended up doing. 
-If anybody actually feels wronged, they should come over to Crabcast for an appology. 
 
 # The Problem
 
