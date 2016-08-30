@@ -126,3 +126,9 @@ There are two exceptions to mods having equivlent power on Flock and Crabcast. N
 Dev will also not get mod powers because he has shown he cannot deal with a situation without rash actions. 
 
 Once again, if anyone wants to join me you can find me at ts.crabcast.party.
+
+# Edit 1
+
+When I brought it up, Puffer stated that he wanted to make anything he did right, and that dev finally sort of told him what he had done. 
+Evidently Puffer agrees that he did fuck up, but not enough for the tailspin that the situation ended up doing. 
+If anybody actually feels wronged, they should come over to Crabcast for an appology. 
