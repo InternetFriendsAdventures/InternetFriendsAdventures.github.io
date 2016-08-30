@@ -64,7 +64,7 @@ This is a chronological re-telling of the events leading to the present.
 Puffer got on the crab server one night saying that Dev was upset with him and that they needed to talk. 
 Dev was out of town at this point, so very little information was known.
 The only information that we had indicated that somebody had complained against Puffer, and dev was upset about it. 
-At this time, unbeknownst to us, there was a witch behind the scenes stirring the pot. There was a puppet master behind the scenes orchestrating the drama, I expect just to cause a rift among the community. 
+At this time, unbeknownst to us, there was a witch behind the scenes stirring the pot. There was a puppet master orchestrating the drama, I expect just to cause a rift among the community. 
 Henceforth, this witch will be known as "Drama Queen" of Tilamook, Oregon. You all missed the coronation, but it was beautiful. 
 The very next day Puffer came back to crabcast and told us that he his mod had been removed.
 At this point I asked if he had even talked to dev yet, but he said that he had not. Dev punished Puffer for a transgression that may not have even happened. 
