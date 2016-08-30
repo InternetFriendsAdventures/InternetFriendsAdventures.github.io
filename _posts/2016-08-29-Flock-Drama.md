@@ -11,14 +11,20 @@ Before getting into the details, I would like to tell anybody who is interested 
 Also, Puffer does not know that I have written this, and it was posted without his permission. 
 I just absolutely hate the way that this turned out for him because he was a valued community member at the flock, and I think that most of you will agree that he was treated very poorly. 
 
+# Edit 1
+
+At this point Puffer has seen the video... sneaky little shit. He stated that he wanted to make anything he did right, and that dev finally sort of told him what he had done. 
+Evidently Puffer agrees that he did fuck up, but not enough for the tailspin that the situation ended up doing. 
+If anybody actually feels wronged, they should come over to Crabcast for an appology. 
+
 # The Problem
 
 ### TL;DR
 
 Dev handled the situation poorly and it was never properly resolved. Puffer tried to figure out what he did wrong and got in trouble for doing so. 
 This is not the first time that something like this has happened between Puffer and Dev. 
-I do not deny that Facepalm and I probably deserve a ban from flock, puffer does not. 
-We still do not know what puffer did wrong in the first place. 
+I do not deny that Facepalm and I probably deserve a ban from flock, Puffer does not. 
+We still do not know what Puffer did wrong in the first place. 
 
 ### Why I am talking about it
 
@@ -33,7 +39,7 @@ I am not impartial in this situation but that does not negate the facts that wil
 To be very clear, the flock server is owned by dev as far as I know. Because it is privately owned, dev can literally do whatever he wants. 
 He should avoid being a jerk, but he really does not have to for any reason. 
 If dev decides that only actual nazis are allowed in the server, that is fine, but that would be a terrible idea. 
-The outcome of this situation is that puffer was punished for something that still has not been clarified.
+The outcome of this situation is that Puffer was punished for something that still has not been clarified.
 
 #### People Should Speak Freely
 
@@ -57,25 +63,25 @@ In the case of Puffer, his moderator was removed before he even spoke with dev, 
 This is a chronological re-telling of the events leading to the present.
 Puffer got on the crab server one night saying that Dev was upset with him and that they needed to talk. 
 Dev was out of town at this point, so very little information was known.
-The only information that we had indicated that somebody had complained against puffer, and dev was upset about it. 
+The only information that we had indicated that somebody had complained against Puffer, and dev was upset about it. 
 At this time, unbeknownst to us, there was a witch behind the scenes stirring the pot. There was a puppet master behind the scenes orchestrating the drama, I expect just to cause a rift among the community. 
 Henceforth, this witch will be known as "Drama Queen" of Tilamook, Oregon. You all missed the coronation, but it was beautiful. 
-The very next day puffer came back to crabcast and told us that he his mod had been removed.
-At this point I asked if he had even talked to dev yet, but he said that he had not. Dev punished puffer for a transgression that may not have even happened. 
-At this point we had a conversation (see video #2 below) about how puffer should respond. 
-Everybody but puffer and surge come to the conclusion that puffer should make this public so that he has a reasonable expectation of good behavior from dev.
+The very next day Puffer came back to crabcast and told us that he his mod had been removed.
+At this point I asked if he had even talked to dev yet, but he said that he had not. Dev punished Puffer for a transgression that may not have even happened. 
+At this point we had a conversation (see video #2 below) about how Puffer should respond. 
+Everybody but Puffer and surge come to the conclusion that Puffer should make this public so that he has a reasonable expectation of good behavior from dev.
 Puffer decided that out of what little respect he had left for dev, he would wait and see what he had to say. 
 After a few more days we got two videos. The first was a conversation between Puffer and Drama Queen. 
-After a few days we got another video that was a recording of the conversation we had with puffer after his mod was removed. 
+After a few days we got another video that was a recording of the conversation we had with Puffer after his mod was removed. 
 
 ### Drama Queen "proves" Wrongdoing
 
 #### Video 1
 [Link to video 1](https://www.youtube.com/watch?v=FQenYNQgS34)
 
-This is the evidence that dev used to "prove" that puffer had done something deserving of having mod revoked. This video takes place after the first few messages from dev, but most of the video takes place before puffers mod was removed (the last minute-ish is puffer reacting to losing Mod power).
+This is the evidence that dev used to "prove" that Puffer had done something deserving of having mod revoked. This video takes place after the first few messages from dev, but most of the video takes place before Puffers mod was removed (the last minute-ish is Puffer reacting to losing Mod power).
 Because this takes place after the initial accusations I do not know how it could be evidence of some wrongdoing.
-Even though this could not actually be the original complaint, there is still no evidence that puffer did anything wrong after the fact. 
+Even though this could not actually be the original complaint, there is still no evidence that Puffer did anything wrong after the fact. 
 If you do not have time to watch the whole video, it goes basically like this: Puffer has no idea what he has done wrong.
 He is upset with the situation, and how dev has handled it so far. This is not the first time that something like this has happened. 
 Puffer states that the only thing he did remotely wrong was not ban his brother Facepalm for using a slur against another member of the community (you can actually see that happen in the video). 
@@ -87,11 +93,11 @@ When the ghost is asked if they blame Puffer for Facepalm's actions, it replies 
 #### Video 2
 [Link to video 2](https://www.youtube.com/watch?v=BIZDW5Li3PI)
 
-After puffers mod was removed we had a conversation about it. 
+After Puffers mod was removed we had a conversation about it. 
 The video is of the conversation immediately afterwards. 
 I would like to thank Drama Queen for uploading this video because without you we would be stuck with with no proof of what actually happened. 
 It is evidently intended to intimidate me in some way, though after seeing these two videos back to back, I suspect that Drama Queen may have some mental disabilities. 
-This video shows no evidence of puffer doing anything wrong. This video only shows evidence of me doing something that would be grounds for a ban, puffer is still in the clear.
+This video shows no evidence of Puffer doing anything wrong. This video only shows evidence of me doing something that would be grounds for a ban, Puffer is still in the clear.
 Please keep in mind that I have circumvented this ban in order to distribute this link to you, so honestly it accomplished nothing anyway.
 I will however, respect the ban other than when absolutely necessary (like now).
 
@@ -112,9 +118,9 @@ I don't give a lovely mother fuck if your feelings are hurt, but I will not put 
 
 I do not like Dev, never have because he removed my flairs. Drama Queen Niblexis is a shit stirrer, and I do not care for people like that. 
 He just pokes and prods just to fuck with people because he gets no satisfaction from his own life.
-Multiple times in the above videos he is goading the situation on, and even breaking rules that puffer himself did.
-Thankfully he is not bright enough to even notice that the videos actually help puffers case. 
-He is at least as guilty as puffer of any rule breaking. 
+Multiple times in the above videos he is goading the situation on, and even breaking rules that Puffer himself did.
+Thankfully he is not bright enough to even notice that the videos actually help Puffers case. 
+He is at least as guilty as Puffer of any rule breaking. 
 Even though these two suck... like really bad, they are both welcome on crabcast. 
 Niblexis has demonstrated a history of doing things just to cause trouble so he will not be given mod powers probably ever. 
 Dev will also not get mod powers 
