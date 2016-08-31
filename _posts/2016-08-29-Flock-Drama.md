@@ -7,10 +7,17 @@ excerpt: 'Most people know about the conflict between Dev and Puffer, but not th
 tags: Total Drama Island
 ---
 
-Before getting into the details, I would like to tell anybody who is interested that we are available on another teamspeak server to talk at almost any time at [ts.crabcast.party](ts3server://ts.crabcast.party) if they are curious about the events that this document outlines.
+Before getting into the details, I would like to tell anybody who is interested that we are available on another teamspeak server to talk at almost any time at [ts.crabcast.party](ts3server://ts.crabcast.party) if they are curious about the events that this document outlines. If you have questions or comments I will try to address them all (even dev can come on over if he wants).
+
 Also, Puffer does not know that I have written this, and it was posted without his permission. 
 I just absolutely hate the way that this turned out for him because he was a valued community member at the flock, and I think that most of you will agree that he was treated very poorly. 
 
+# EDIT 
+
+Evidently, posting a link that explains the situation is a bannable offense. Hoonter was banned for trying to spread the truth. 
+I guess Supreme Leader Dev is having trouble with people knowing what actually happened?
+
+Pufer knows that this was posted and was really not happy, but I don't care. Even if he doesn't want to stand up for himself, I will. 
 
 # The Problem
 
